@@ -1,0 +1,37 @@
+/*incorporo reglas fundamentales para hacer web*/
+* {
+    box-sizing: border-box;
+}
+.verde {
+    background-color: greenyellow;   
+}
+.altura1 {
+    height: 400px;
+}
+.morado {
+    background-color: blueviolet;
+}
+.rosado {
+    background-color: pink;
+}
+.altura2 {
+    height: 50px;
+}
+.naranja {
+    background-color: orange;
+}
+.altura3 {
+    height: 200px;
+}
+.morado {
+    background-color: blueviolet;
+}
+.rosado {
+    background-color: pink;
+}
+.altura4 {
+    height: 500px;
+}
+.altura5 {
+    height: 300px;
+}
